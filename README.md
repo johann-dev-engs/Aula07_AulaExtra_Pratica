@@ -14,10 +14,10 @@ Sistema de gerenciamento de tarefas desenvolvido em Laravel.
 
 ## Tecnologias Utilizadas
 
+
 - Laravel 12
 - MySQL
 - Bootstrap 5
-- Blade Templates
 
 ## Estrutura
 
